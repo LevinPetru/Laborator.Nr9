@@ -44,3 +44,4 @@ cum se folosește GitHub pentru colaborare și gestionarea versiunilor.
 Nume: Levin Petru
 Grupa: [scrie grupa ta]
 Profesor: Natalia Turceac
+Aceastea este versiunea din branchul main
