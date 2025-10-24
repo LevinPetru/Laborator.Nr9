@@ -1,0 +1,3 @@
+- Sarcina 1: Initializare repo
+- Sarcina 2: Creare branch
+- Sarcina 3: Rezolvare conflict
